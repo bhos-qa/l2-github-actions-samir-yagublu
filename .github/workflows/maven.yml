@@ -4,9 +4,9 @@ name: Java Maven Build & Publish Artifact
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "feature/lab2" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "feature/lab2" ]
 
 jobs:
   build_test:
