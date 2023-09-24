@@ -1,0 +1,1 @@
+[![test-java](https://github.com/bhos-qa/l2-github-actions-samir-yagublu/actions/workflows/maven.yml/badge.svg?branch=feature%2Flab2)](https://github.com/bhos-qa/l2-github-actions-samir-yagublu/actions/workflows/maven.yml)

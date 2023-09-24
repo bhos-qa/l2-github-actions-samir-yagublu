@@ -1,6 +1,6 @@
 
 
-name: Java Maven Build & Publish Artifact
+name: test-java
 
 on:
   push:
